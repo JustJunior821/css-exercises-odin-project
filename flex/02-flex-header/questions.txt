@@ -1,0 +1,5 @@
+I had trouble removing the space that was created from the empty bullet point in the list item
+(at least I assume that was why there was open space). Does padding: 0; just remove this empty space?
+
+Does setting margin: aut0; qualify as setting absolute spacing or something?
+
